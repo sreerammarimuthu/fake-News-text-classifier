@@ -1,1 +1,2 @@
-# fake-News-text-classifier
+# Fake-News Text Classifier
+
