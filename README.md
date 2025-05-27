@@ -30,7 +30,7 @@ Using a labeled dataset of real and fake news articles, this project applies a c
 
 XGBoost with raw term frequencies crushed it with a near-perfect score.
 
-## Highlights  
+## Insights  
 
 - Clean data makes a world of difference.
 - TF features worked surprisingly better than TF-IDF or even n-gram BoW.
