@@ -17,10 +17,10 @@ Labels: `1 = Real`, `0 = Fake`
 ## Contents 
 
 `data/`   
-- `dataset.md`: Contains the dataset source link
+- `dataset.md`: Contains the source of the Fake-News dataset with it's description,
 
 `notebooks/`  
-- `fake-news-text-classifier.ipynb`: Notebook with the entire NLP pipeline and our analysis        
+- `fake-news-text-classifier.ipynb`: Notebook with the entire NLP pipeline and our analysis.           
 
 ## Top Results  
 
