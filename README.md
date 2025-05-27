@@ -17,7 +17,7 @@ Using a labeled dataset of real and fake news articles, this project applies a c
 `notebooks/`  
 - `fake-news-text-classifier.ipynb`: Notebook with the entire NLP pipeline and our analysis        
 
-## Results  
+## Top Results  
 
 | Model                      | Feature Type | Accuracy |
 |----------------------------|--------------|----------|
