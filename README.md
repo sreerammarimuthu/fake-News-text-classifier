@@ -9,7 +9,7 @@ Using a labeled dataset of real and fake news articles, this project applies a c
 - Compare traditional models (Logistic Regression, Naive Bayes, Random Forest) with advanced ones (XGBoost)
 - Test whether parts of speech (nouns, verbs, adjectives) alone can identify fake news
 
-## Dataset  
+## Dataset Description   
 
 The dataset consists of ~21K real and ~23K fake news articles pulled from reputable sources and flagged any misinformation.  
 Labels: `1 = Real`, `0 = Fake`
